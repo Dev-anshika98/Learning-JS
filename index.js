@@ -65,5 +65,6 @@ Number.isNaN(NaN);
 
 console.log(NaN===NaN);
 console.log(Number.NaN===NaN);
-
+console.log(Number.isNaN(NaN));
+console.log(20+2);
 
