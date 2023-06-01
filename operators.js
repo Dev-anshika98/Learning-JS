@@ -49,6 +49,8 @@ var b = -20;
 console.log( a>b&&a>0);//logical AND (&&) if both conditions are true then true
 console.log(a<b||b<0);//logical OR (||)if only one or more condition true then true
 console.log(!(a>0)&&(b<0));
+console.log(!(a>0)&&(b>0));
+
 
 
 
