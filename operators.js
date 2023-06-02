@@ -49,7 +49,12 @@ var b = -20;
 console.log( a>b&&a>0);//logical AND (&&) if both conditions are true then true
 console.log(a<b||b<0);//logical OR (||)if only one or more condition true then true
 console.log(!(a>0)&&(b<0));
-console.log(!(a>0)&&(b>0));
+// Assign the value 5 to x
+let x = 5;
+// Assign the value 2 to y
+let y = 2;
+// Assign the value x + y to z:
+let z = x + y;
 
 
 
