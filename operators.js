@@ -57,6 +57,54 @@ let y = 2;
 let z = x + y;
 
 
+//String concatenation  Operator/
+//The concatenation operator (+) concatenates two string values together
+//returning another string that is the union ot the two operand together
+
+
+console.log("Hello World");
+console.log("hello " + "World");
+ 
+var myname = "vinod";
+console.log(myname + " thapa");
+console.log( myname + "gupta");
+// Challenge
+//output of 3**3
+console.log(3**3);
+console.log(2**4); //2*2*2*2
+console.log(10  ** -1); 
+// what will bw thw output ,when we add a no. and a string 
+console.log( 4 + "thapa")
+console.log( 10 - "gupta");
+
+
+// a program to swap a no. using 3 variable
+var a = 2;
+var b = 3;
+var c = b; //c=3
+b = a
+a = c
+console.log("the value of is"+ a);
+console.log("the value of is"+ b);
+
+// swap 2 no. without using 3 var
+
+var a = 5;
+var b = 6;
+a= a+b; //11
+b = a - b ;//5
+a = a - b ;//6
+console.log("the value of a is " + a);
+console.log("the value of b is " + b);
+
+//Diffrence b/t == & ===
+var num1 = 5;
+var num2 = '5';
+console.log(typeof(num1));
+console.log(typeof(num2));
+console.log(num1 == num2);// == check only the value not datatype
+console.log(num1 === num2);// === check value as well as datatype
+
 
 
 
