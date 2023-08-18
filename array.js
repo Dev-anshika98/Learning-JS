@@ -1,7 +1,7 @@
 // Array:
 //when we use va, we can stored only on variable at a time
  var frnd1 = "ram";
- var frnd2 = "shyam";
+ var frnd2 = "shyamaaa";
 
  //when we feel like storing multiple values of multiple datatype in one variable then instead of var, we will use an array.
  //in js, we have an array class, and arrays are the prototypw of this class.
