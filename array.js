@@ -24,6 +24,9 @@ var myfriends = ["ram","shyam","sita","true",45];
 var myfriends = ["ram","shyam","sita","true" ,"nam"];
 console.log(myfriends[4]);
 
+var myfriends = ["ram","shyam","sita","true" ,"nam"];
+console.log(myfriends[4]);
+
 
 
 //if we want to check the length of element of an array
