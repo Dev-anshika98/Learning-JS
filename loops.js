@@ -37,3 +37,17 @@ for(var num = 1; num<= 20; num++){
     var tableOf = 7;
     console.log(tableOf +" * " + num + " = " + 7*num);
 }
+
+//While Loop
+var a=20;
+while(a>=1){
+    document.write("hue hue");
+    a = a -1;
+}
+//Do while loop
+var b = 1
+do{
+    document.write("hehehhe");
+    a = a+1;
+}while(a <=10)
+  
